@@ -11,4 +11,4 @@ while i < max_smiles:
 
     print(smiley, " ", end=":)")
     i += 1
-    print()
+    print(" testing version")
