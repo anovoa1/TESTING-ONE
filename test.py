@@ -12,3 +12,4 @@ while i < max_smiles:
     print(smiley, " ", end=":)")
     i += 1
     print(" testing version")
+    print("command line test push")
